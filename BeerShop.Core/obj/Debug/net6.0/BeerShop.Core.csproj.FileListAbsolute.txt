@@ -1,0 +1,12 @@
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/bin/Debug/net6.0/BeerShop.Core.deps.json
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/bin/Debug/net6.0/BeerShop.Core.dll
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/bin/Debug/net6.0/BeerShop.Core.pdb
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.csproj.AssemblyReference.cache
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.AssemblyInfoInputs.cache
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.AssemblyInfo.cs
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.csproj.CoreCompileInputs.cache
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.dll
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/refint/BeerShop.Core.dll
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/BeerShop.Core.pdb
+/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/obj/Debug/net6.0/ref/BeerShop.Core.dll

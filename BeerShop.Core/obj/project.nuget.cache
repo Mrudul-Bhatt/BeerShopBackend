@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j01jxzIR7no4xWjvQqYJ/bovmcHd1NEU7HAluM5RIBwfyrLcnifKV/EyItFI7vkf0jaTWERL3cqLQY4lAljfMw==",
+  "success": true,
+  "projectFilePath": "/Users/mrudul/Desktop/dotNET-Learning/BeerShopSolution/BeerShop.Core/BeerShop.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrudul/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5,
+    "name": "Avery Brown Dredge",
+    "description": "An Imperial Pilsner in collaboration with beer writers. Tradition. Homage. Revolution. We wanted to showcase the awesome backbone of the Czech brewing tradition, the noble Saaz hop, and also tip our hats to the modern beers that rock our world, and the people who make them.",
+    "image_url": "https://images.punkapi.com/v2/5.png"
+  },
+  {
+    "id": 8,
+    "name": "Fake Lager",
+    "description": "Fake is the new black. Fake is where it is at. Fake Art, fake brands, fake breasts, and fake lager. We want to play our part in the ugly fallout from the Lager Dream. Say hello to Fake Lager – a zesty, floral 21st century faux masterpiece with added BrewDog bitterness.",
+    "image_url": "https://images.punkapi.com/v2/8.png"
+  },
+  {
+    "id": 9,
+    "name": "AB:07",
+    "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+    "image_url": "https://images.punkapi.com/v2/9.png"
+  }
+]
